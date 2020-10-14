@@ -1,0 +1,10 @@
+body > div > form{
+    width: 90%;
+    max-width: 600px;
+    padding: 16px;
+    margin: auto;
+}
+body > div > form > .fiel {
+    display: block;
+    width: 100%;
+}
